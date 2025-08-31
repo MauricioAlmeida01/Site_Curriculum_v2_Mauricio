@@ -34,9 +34,6 @@ section:hover{
     transform: scale(1.01);
     z-index: 1;
 }
-a{
-    text-decoration: none;
-}
 a:visited{
     color: black;
 
@@ -65,4 +62,5 @@ i{
 .text-icon{
     font-family: Helvetica,Arial, sans-serif;
     display: inline;
+
 }
